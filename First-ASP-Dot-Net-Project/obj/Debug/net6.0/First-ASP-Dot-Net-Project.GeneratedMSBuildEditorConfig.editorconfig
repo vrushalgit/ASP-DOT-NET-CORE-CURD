@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\Projects\ASP-Dot-Net-Core\First-ASP-Dot-Net-Project\First-ASP-Dot-Net-Project
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/Projects/ASP-Dot-Net-Core/First-ASP-Dot-Net-Project/First-ASP-Dot-Net-Project/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Projects/ASP-Dot-Net-Core/First-ASP-Dot-Net-Project/First-ASP-Dot-Net-Project/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

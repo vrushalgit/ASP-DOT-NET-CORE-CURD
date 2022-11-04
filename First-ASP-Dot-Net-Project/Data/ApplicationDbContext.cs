@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿
+using Microsoft.EntityFrameworkCore;
+using First_ASP_Dot_Net_Project.Models;
 
 namespace First_ASP_Dot_Net_Project.Data
 {
@@ -7,5 +9,8 @@ namespace First_ASP_Dot_Net_Project.Data
         {
 
         }
+
+        // DbSet is used to create table
+        public DbSet<Category> Categories { get; set; }
     }
 }
